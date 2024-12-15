@@ -108,4 +108,6 @@ TinDog/
 
 Thank you for reviewing my project! I look forward to discussing how this work reflects my skills and passion for front-end development.
 
+---
+
 Created and maintained by Natnael Haile
