@@ -106,6 +106,12 @@ TinDog/
 
 ---
 
+License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this project for personal or commercial purposes.
+
+---
+
 Thank you for reviewing my project! I look forward to discussing how this work reflects my skills and passion for front-end development.
 
 ---
