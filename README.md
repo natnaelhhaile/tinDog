@@ -1,10 +1,10 @@
-# TinDog&#x20;
+# tinDog&#x20;
 
-Welcome to **TinDog**, a front-end design project created to showcase a responsive and visually appealing website built using **HTML**, **CSS**, and **Bootstrap**. TinDog is a playful, fictional platform for dog lovers to connect their pets with potential companions.
+Welcome to **tinDog**, a front-end design project created to showcase a responsive and visually appealing website built using **HTML**, **CSS**, and **Bootstrap**. TinDog is a playful, fictional platform for dog lovers to connect their pets with potential companions.
 
 ## Project Overview
 
-TinDog is designed to be sleek, responsive, and user-friendly. It combines engaging visuals, smooth navigation, and clean code structure to demonstrate proficiency in front-end development. The project showcases key features such as:
+tinDog is designed to be sleek, responsive, and user-friendly. It combines engaging visuals, smooth navigation, and clean code structure to demonstrate proficiency in front-end development. The project showcases key features such as:
 
 - Responsive design for all device sizes.
 - Bootstrap-powered components for a modern and professional look.
@@ -14,7 +14,7 @@ TinDog is designed to be sleek, responsive, and user-friendly. It combines engag
 
 ### Live Demo
 
-Experience TinDog live at: [TinDog Front-End Design](https://tindog-frontend.surge.sh/)
+Experience tinDog live at: [tinDog Front-End Design](https://tindog-frontend.surge.sh/)
 
 ## Features
 
@@ -69,7 +69,7 @@ Experience TinDog live at: [TinDog Front-End Design](https://tindog-frontend.sur
 ## Folder Structure
 
 ```
-TinDog/
+tinDog/
 ├── css/
 │   └── styles.css      # Custom CSS styles
 ├── images/             # Images used in the project
@@ -81,7 +81,7 @@ TinDog/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/tindog.git
+   git clone https://github.com/natnaelhhaile/tindog.git
    ```
 2. Open `index.html` in any web browser to view the project.
 
